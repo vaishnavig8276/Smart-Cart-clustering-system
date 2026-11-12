@@ -24,7 +24,4 @@ To run this project locally, follow these steps:
    git clone [https://github.com/vaishnavig8276/Smart-Cart-clustering-system.git](https://github.com/vaishnavig8276/Smart-Cart-clustering-system.git)
    cd Smart-Cart-clustering-system
    ```
-##Create and activate a virtual environment:
 
-python -m venv .venv
-.\.venv\Scripts\activate
