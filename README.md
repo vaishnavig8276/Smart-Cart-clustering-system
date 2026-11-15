@@ -55,7 +55,7 @@ Smart-Cart-clustering-system/
 ├── smartcart.ipynb             # Main notebook containing EDA, modeling, and evaluation[cite: 1]
 ├── smartcart_customers.csv     # Raw dataset containing transaction records[cite: 1]
 └── README.md                   # Project documentation[cite: 1]
-
+```
 
 ## 📊 Dataset Description
 The dataset contains historical customer transaction data with the following specifications:
